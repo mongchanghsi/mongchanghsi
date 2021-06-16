@@ -3,6 +3,15 @@
 - 📚 I'm currently studying in Singapore University of Technology and Design as Computer Engineer
 - 👨‍💻 I specialize in ReactJS with Typescript
 - 🎯 My hobby is darts especially in cricket mode!
+
+My knowledge:
+- ReactJS/Hooks/Redux in Typescript
+- NodeJS
+- CSS/SASS/Bootstrap/Tailwind/MaterialUI
+- Firebase/MongoDB/PostgresSQL
+- Sequelize/TypeORM
+- Jest/React-Testing-Library/Selenium
+
 <!--
 **mongchanghsi/mongchanghsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
