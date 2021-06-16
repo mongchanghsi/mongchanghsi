@@ -11,6 +11,7 @@ My knowledge:
 - Firebase/MongoDB/PostgresSQL
 - Sequelize/TypeORM
 - Jest/React-Testing-Library/Selenium
+- Python
 
 <!--
 **mongchanghsi/mongchanghsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
