@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📚 I'm currently studying in Singapore University of Technology and Design as Computer Engineer
+- 📚 I'm a graduate from Singapore University of Technology and Design as Computer Engineer
 - 👨‍💻 I specialize in ReactJS with Typescript
 - 🎯 My hobby is darts especially in cricket mode!
 
@@ -12,6 +12,10 @@ My knowledge:
 - Sequelize/TypeORM
 - Jest/React-Testing-Library/Selenium
 - Python
+
+Currently learning:
+- Angular
+- Springboot in both Java and Kotlin
 
 <!--
 **mongchanghsi/mongchanghsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
