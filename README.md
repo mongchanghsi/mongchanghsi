@@ -71,6 +71,6 @@ Here are some ideas to get you started:
 
 [tech_tools_anchor]: #bonjour--
 
-[![Eric Mong's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongchanghsi&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Eric Mong's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongchanghsi&show_icons=true&theme=react&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongchanghsi&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
