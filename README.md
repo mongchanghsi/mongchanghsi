@@ -4,15 +4,7 @@
 - 👨‍💻 I specialize in ReactJS with Typescript
 - 🎯 My hobby is darts especially in cricket mode!
 
-My knowledge:
-- NodeJS
-- CSS/SASS/Bootstrap/Tailwind/MaterialUI
-- Firebase/MongoDB/PostgresSQL
-- Sequelize/TypeORM
-- Jest/React-Testing-Library/Selenium
-- Python
-
-<!-- Languagues and Tools:
+Languagues and Tools:
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -22,15 +14,23 @@ My knowledge:
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/SASS-282C34?logo=sass&logoColor=cf649a" alt="SASS logo" title="SASS" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7310f6" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind-css" alt="Tailwind logo" title="Tailwind" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MUI-282C34?logo=mui&logoColor=2f7fff" alt="MUI logo" title="MUI" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/NextJS-282C34?logo=vercel&logoColor=ffffff" alt="Next logo" title="NextJS" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/NextJS-282C34?logo=next.js&logoColor=ffffff" alt="Next logo" title="NextJS" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/NodeJS-282C34?logo=node.js&logoColor=43853D" alt="NodeJS logo" title="NodeJS" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/ExpressJS-282C34?logo=express.js&logoColor=43853D" alt="ExpressJS logo" title="NodeJS" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/ExpressJS-282C34?logo=express&logoColor=000000" alt="ExpressJS logo" title="NodeJS" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -40,6 +40,16 @@ My knowledge:
 &nbsp;
 [<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin" alt="Kotlin logo" title="Kotlin" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase" alt="Firebase logo" title="Firebase" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql" alt="Postgres logo" title="Postgres" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize" alt="Sequelize logo" title="Sequelize" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeORM-282C34?logo=typeorm" alt="TypeORM logo" title="TypeORM" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
@@ -48,12 +58,13 @@ My knowledge:
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
- -->
-Currently learning:
-- Angular
-- Springboot in both Java and Kotlin
-
+[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]&nbsp;
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku" alt="Heroku logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazon-aws&logoColor=f79901" alt="AWS logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
 <!--
 **mongchanghsi/mongchanghsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
