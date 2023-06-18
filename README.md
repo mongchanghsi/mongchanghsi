@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 📚 I'm a graduate from Singapore University of Technology and Design as Computer Engineer
-- 👨‍💻 I specialize in ReactJS with Typescript
-- 🎯 My hobby is darts especially in cricket mode!
+- 👨‍💻 Full Stack Developer specialising in Frontend Development with experience in both Web2 and Web3
 
 Languagues and Tools:
 
